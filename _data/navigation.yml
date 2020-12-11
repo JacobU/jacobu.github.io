@@ -1,0 +1,14 @@
+- name: Home
+  link: /
+- name: About
+  link: /about.html
+- name: Blog
+  link: /blog.html
+- name: An Agnostic History of Christianity
+  link: /ahoc.html
+- name: Book Reviews
+  link: /reviews.html
+- name: Series
+  link: /series.html
+- name: Archive
+  link: /archive.html

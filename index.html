@@ -1,0 +1,47 @@
+---
+title: Agnostic History
+---
+<div class="main">
+    <blockquote style="font-size: 0.9em;">"My goal is to try to get people into a state of generalized agnosticism, not agnosticism about god alone, but agnosticism about everything."- <cite style="text-align: right;">Robert Anton Wilson: Searching for Cosmic Intelligence - Interview by Jeffrey Elliot (1980)</cite></blockquote>
+    <p>Welcome to <em>Agnostic History</em>. Most agnosticism is about gods: how many there are, whether they exist, what their names are, whether they employ torture chambers, whether they care about the state of your genitals. My goal with this site is, like Robert Anton Wilson, to convince you to be agnostic about <em>much</em> more.</p>
+    <p>In order to do this I'll be discussing religion, agnosticism, history, epistemology, philosophy of science, and cults. By the end, we should know less.</p>
+    <hr>
+
+    
+    <div class="column-half">
+        <h3 style="text-align: left;">Newest</h3>
+        <ul>
+            {% for post in site.posts limit:10 %}
+            <li class="smalltext"><a href="{{ post.url }}">{{ post.title }}</a></li>
+            {% endfor %}
+        </ul>
+        <h3 style="text-align: left;">Book Reviews</h3>
+        <ul>
+            {% for category in site.categories %}
+                {% if category[0] == "books" %}
+                    {% for post in category[1] %}
+                        <li class="smalltext"><a href="{{ post.url }}">{{ post.title }}</a></li>
+                    {% endfor %}
+                {% endif %}        
+            {% endfor %}
+        </ul>
+    </div>
+
+    
+    <div class="column-half">
+        <h3 style="text-align: left;">Cults</h3>
+        <ul>
+            {% for category in site.categories %}
+                {% if category[0] == "cult" %}
+                    {% for post in category[1] %}
+                        <li class="smalltext"><a href="{{ post.url }}">{{ post.title }}</a></li>
+                    {% endfor %}
+                {% endif %}        
+            {% endfor %}
+        </ul>
+        <h3 style="text-align: left;">An Agnostic History of Christianity</h3>
+        <ul>
+            <li class="smalltext"> Coming Soon</li>
+        </ul>
+    </div>
+</div>

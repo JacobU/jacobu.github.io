@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }} | Agnostic History</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/assets/css/draft.css">
+      <link rel="shortcut icon" type="image/png" href="/assets/images/ah_logo_cropped.png">
+    {% feed_meta %}
+    {% seo %}
+  </head>
+  <body>
+    <div class="sidebar">
+        <img src="/assets/images/ah_logo_cropped.png" alt="Agnostic History Logo" height="106px" width="189px">
+      {% include navigation.html %}
+    </div>
+    
+    {{ content }}
+    
+    <br>
+    <br>
+  </body>
+</html>

@@ -1,0 +1,13 @@
+---
+layout: default
+---
+<div class="main">
+  <h1>{{ page.title }}</h1>
+  <p style="text-align: right;"><em>{{ page.date | date_to_string }}</em>  
+      <!-- {% assign author = site.authors | where: 'short_name', page.author | first %} -->
+        - <a href="/about.html">{{ page.author }}</a>
+  </p>
+  {{ content }}
+</div>
+
+

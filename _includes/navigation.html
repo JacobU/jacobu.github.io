@@ -1,0 +1,22 @@
+<nav>
+  <ul dir="rtl">
+    {% for item in site.data.navigation %}
+      <li><a class="line-links" href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a></li>
+    {% endfor %}
+    <h3 class="red">Blogroll</h3>
+
+    <li><a class="line-links" href="https://armstrongismlibrary.blogspot.com/">Banned By HWA</a></li>
+    <li><a class="line-links" href="https://exitsupportnetwork.com/">Exit Support Network</a></li>
+    <li><a class="line-links" href="http://www.overcomingbias.com/">Robin Hanson</a></li>
+    <li><a class="line-links" href="https://slatestarcodex.com/">Star Slate Codex</a></li>
+    <li><a class="line-links" href="https://marginalrevolution.com/">Marginal Revolution</a></li>
+    <li><a class="line-links" href="http://www.paulgraham.com/articles.html">Paul Graham</a></li>
+    <li><a class="line-links" href="https://www.calnewport.com/blog/">Cal Newport</a></li>
+    <li><a class="line-links" href="https://patrickcollison.com/about">Patrick Collinson</a></li>
+    <li><a class="line-links" href="https://guzey.com/">Alex Guzey</a></li>
+    <li><a class="line-links" href="https://www.scottaaronson.com/blog/">Scott Aaronson</a></li>
+    <li><a class="line-links" href="https://meltingasphalt.com/">Melting Asphalt</a></li>
+    <li><a class="line-links" href="http://www.razib.com/wordpress/">Razib</a></li>
+  </ul>
+</nav>
+  
