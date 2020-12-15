@@ -20,3 +20,8 @@
   </ul>
 </nav>
   
+<div class="nav-mobile">
+  {% for item in site.data.navigation %}
+    <a class="line-links" href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a>
+  {% endfor %}
+</div>
