@@ -286,6 +286,7 @@ The solution he came up with was to say that the Assyrians moved to Germany in t
 
 <blockquote>
 "Greek and Roman historians record the Assyrian people migrating in three stages:
+
 - Sixth century b.c. to Asia Minor
 - Fourth century b.c. to Scythia
 - First century b.c. to lands east of the Rhine River"
