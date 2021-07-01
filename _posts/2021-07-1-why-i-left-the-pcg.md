@@ -285,10 +285,10 @@ Jonathan Mansour, a HWAC student, had been assigned to create a 90-second Trumpe
 The solution he came up with was to say that the Assyrians moved to Germany in three stages:
 
 <blockquote>
-    "Greek and Roman historians record the Assyrian people migrating in three stages:
-    - Sixth century b.c. to Asia Minor
-    - Fourth century b.c. to Scythia
-    - First century b.c. to lands east of the Rhine River"
+"Greek and Roman historians record the Assyrian people migrating in three stages:
+- Sixth century b.c. to Asia Minor
+- Fourth century b.c. to Scythia
+- First century b.c. to lands east of the Rhine River"
 </blockquote>
 
 This explanation conveniently ignored who was in Germany before that time, and convineniently disdained to provide the historians who tracked the migration. Since what I really cared about were the specifics, the video didn't help me at all. But it did inspire me to do what I'd been wanting to do for years. I took David Vejil's article, "The Remarkable Identity of the German People" and I scoured it, line by line, for evidence of its main, and only important, claim.
