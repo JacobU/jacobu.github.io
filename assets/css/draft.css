@@ -99,6 +99,10 @@ blockquote {
     padding: 1rem;
 }
 
+code {
+    background-color: #CCCCCC;
+    color: #752020;
+}
 
 /*=-------------------=*/
 /*=     IMAGES        =*/
@@ -107,6 +111,12 @@ blockquote {
 img {
     /* max-width: 100%; */
     max-height: 100%;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /*=-------------------=*/
@@ -271,6 +281,11 @@ div.epigraph > blockquote > footer {
 
 div.epigraph > blockquote > footer > cite {
     font-style: italic; 
+}
+
+figcaption {
+    font-size: 0.8em;
+    text-align: center;
 }
 
 /*=-------------------=*/

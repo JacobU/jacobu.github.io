@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 12.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 51448)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg  version="1.0" id="Layer_1" xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" width="161" height="161" viewBox="0 0 161 161"
+	 overflow="visible" enable-background="new 0 0 161 161" xml:space="preserve">
+<line fill="none" stroke="#0678B3" x1="38.25" y1="148.75" x2="158.083" y2="100.333"/>
+<line fill="none" stroke="#0678B3" x1="73.25" y1="160.25" x2="142" y2="131.5"/>
+<line fill="none" stroke="#B3B3B3" x1="50.5" y1="6" x2="32" y2="144"/>
+<line fill="none" stroke="#B3B3B3" x1="32" y1="144" x2="159.75" y2="91.75"/>
+<line fill="none" stroke="#B3B3B3" x1="159.75" y1="91.75" x2="50.5" y2="6"/>
+<line fill="none" stroke="#FF0000" x1="10.917" y1="119.667" x2="158.75" y2="62.75"/>
+<line fill="none" stroke="#FF0000" x1="160.417" y1="81.833" x2="21.75" y2="135.25"/>
+<circle fill="none" stroke="#000000" cx="80.5" cy="80.5" r="80"/>
+<line fill="none" stroke="#000000" stroke-linecap="round" x1="111.917" y1="154" x2="80.5" y2="79.75"/>
+</svg>
