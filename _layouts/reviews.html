@@ -1,0 +1,75 @@
+---
+layout: default
+---
+
+<script>
+  function highestRated(a, b) {
+    aStars = a.querySelector("p").className;
+    bStars = b.querySelector("p").className;
+    return parseInt(bStars) - parseInt(aStars);
+  }
+
+  function lowestRated(a, b) {
+    return highestRated(a,b) * -1;
+  }
+
+  // The date must be in the H1 tag, with the date in the format "MM/YY"
+  function newest(a, b) {
+    aDate = a.querySelector("h1").className;
+    aDateTotal = (parseInt(aDate.substring(0,2))/12) + parseInt(aDate.substring(3)); 
+
+    bDate = b.querySelector("h1").className;
+    bDateTotal = (parseInt(bDate.substring(0,2))/12) + parseInt(bDate.substring(3)); 
+    return bDateTotal - aDateTotal;
+  }
+
+  function oldest(a, b) {
+    return newest(a,b) * -1;
+  }
+
+  function sortReviews(sortType) {
+    const docFragment = document.createDocumentFragment();
+    const list = document.querySelector("ul");
+    const items = list.querySelectorAll("li");
+    let listToSort = Array.from(items);
+    
+    switch(sortType) {
+      case 'highest':
+        listToSort.sort(highestRated);
+        break;
+      case 'lowest':
+        listToSort.sort(lowestRated);
+        break;
+      case 'newest':
+        listToSort.sort(newest);
+        break;
+      case 'oldest':
+        listToSort.sort(oldest);
+        break;
+      default:
+        break;
+    }
+
+    for (let item of listToSort) {
+      docFragment.appendChild(item);
+    }
+    list.appendChild(docFragment);
+  }
+</script>
+
+<div class="main">
+  <h1>{{ page.title }}</h1>
+  <p style="text-align: right;"><em>{{ page.date | date_to_string }}</em>  
+      <!-- {% assign author = site.authors | where: 'short_name', page.author | first %} -->
+        - <a href="/about.html">{{ page.author }}</a>
+  </p>
+
+  <button onclick="sortReviews('highest')">Highest rated</button>
+  <button onclick="sortReviews('lowest')">Lowest rated</button>
+  <button onclick="sortReviews('newest')">Newest</button>
+  <button onclick="sortReviews('oldest')">Oldest</button>
+
+  {{ content }}
+</div>
+
+
