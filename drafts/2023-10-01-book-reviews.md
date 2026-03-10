@@ -38,7 +38,7 @@ Overrated. That is not to say this is a bad book, and I certainly wouldn't say t
 
 Some of the banalities include: reading the table of contents, skim-reading, situating the book within the context of other books it references. One wonders why Adler thought anyone willing to read through 400 pages on *How to Read a Book* wouldn't already know the vast majority of its contents.
 
-Adler, also a joint founder of the *Great Books Movement*, ends by giving us a list 137 recommended authors with only two women: Jane Austen and George Eliot. Charming.
+Adler, also a joint founder of the *Great Books Movement*, ends by giving us a list 137 recommended authors with only two women: Jane Austen and George Eliot.
 </span>
 
 <span>
@@ -59,7 +59,7 @@ The Israeli solution is exactly that: an Israeli solution for a Israeli-Palestin
 ### Rudyard Kipling
 ★★★★★
 
-Kim is immersive and brilliant. Not many books I have read compete with the level of sheer enjoyment I had in following the Kim around. Kipling apparently has a legacy of perpetuating racial eastern stereotypes, but I am in no way qualified in judging whether *Kim* suffers from this defect. What I do remember were the most lively, engaging characters and being introduced to Buddhism and the Wheel of Life. This is a book I want to read again for the first time.
+*Kim* is immersive and brilliant. Not many books I have read compete with the level of sheer enjoyment I had in following the Kim around. Kipling apparently has a legacy of perpetuating racial eastern stereotypes, but I am in no way qualified in judging whether *Kim* suffers from this defect. What I do remember were the most lively, engaging characters and being introduced to Buddhism and the Wheel of Life. This is a book I want to read again for the first time.
 
 </span>
 
@@ -155,11 +155,44 @@ Twenge hardly gets past the most banal accusations that Millenials are entitled 
 
 One of the great novellas. Not one to be stuck with in an English class though, as one may get discouraged writing about the symbolism of the fish and the boat after you discover Hemingway said there was no hidden meaning after all--the boat and fish was just a fish and a boat. 
 
-Hemingway employs the "no chapters" strategy, one Terry Pratchett also loved, but one I am unfortunately no fan of.
+Hemingway employs the "no chapters" strategy, one Terry Pratchett also loved, but one I wasn't a fan of at the time.
 </span>
 
 <span>
 
-##
-### 
+## 1984
+### George Orwell
+★★★★★
+
+I wouldn’t have anything to say about this book that someone else hadn’t said. Continuously relevant and will probably gain parable status. When Trump was elected president of the United States, it was endlessly recommended and discussed by talking heads, recently-graduated Youtubers and people who you get the impression only read the SparkNotes. This annoyed me but in the end I felt guilty. I only wish people would have read it without the prompting of America's Berlusconi.
+</span>
+
+<span>
+
+## Animal Farm
+### George Orwell
+★★★
+
+Feels overrated. Certainly not a favourite of the Orwell I’ve read. Perhaps I didn’t get it, I read it just out of highschool.
+
+</span>
+
+<span>
+
+## Brave New World
+### Aldous Huxley
+★★★★
+
+Huxley is great at leaving images in the mind. I agree with the consensus that it pairs well with 1984. It’s hard to determine which will be the popularity winner in the longer term, although the latter is out to an early lead. If you read soma as dopamine, you can almost see Brave New World as our world. Whether people see that as a real dystopia is currently under debate. Huxley was asking whether Nozick’s <a href="https://en.wikipedia.org/wiki/Experience_machine">Experience Machine</a> is something we would want to live with but more and more the answer seems to be yes. There are a fair amount of us who genuinely wouldn’t care if we could turn it on and step inside. Huxley would most likely be surprised since a fair amount of us, myself included, would choose to be Cypher and not Neo if we found ourselves inside the Matrix.
+
+</span>
+
+<span>
+
+## Lord Jim
+### Joseph Conrad
+★★★★★
+
+
+
 </span>
