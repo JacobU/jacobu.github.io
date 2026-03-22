@@ -107,11 +107,11 @@ A genuinely interesting way to read the Gospels, if one cares to do so. Robertso
 
 The example above has been of particular interest to critical scholars, and  if I had the knowledge I do now of the state of New Testament studies, this would have been a much more interesting read. In general Mark tells the story first, with the least embellishments. Matthew and Luke come along later, inserting what they believe to be neccessary theological additions. Finally, John, decades later, often tells completely different stories, but when he chooses one common to the Synoptic gospels, the Jesus he describes has leveled up. In the story above, where Jesus comes to be baptised by John the Baptist, Mark, writing first, describes how Jesus is baptised and the "Spirit as a dove" descends on him. Luke repeats essentially the same details, while Matthew adds later that John tries to stop him from getting baptised, telling the crowd "I have need to be baptized of thee!" Yea, sure Matt. 
 
-Robertson doesn't even include John's account in the tables, being so different from the Synoptics. But in his version, John sees Jesus and begins proclaiming that Jesus is the "Lamb of God" who will "take away the sin of the world"--referencing Isaiah 53. Wow John, that sure was convinient!
+Robertson doesn't even include John's account in the tables, being so different from the Synoptics. But in his version, John sees Jesus and begins proclaiming that Jesus is the "Lamb of God" who will "take away the sin of the world"--referencing Isaiah 53. Wow John, that sure was convenient!
 
 This pattern occurs over and over in the gospels, and Robertson does a good job (not that I guess he intended to do so) of showing visually how this happens. Often, the text in Mark tells the story in such a mimimal way that we get to see a huge wall of text in the Matthew and Luke columns surrounding Mark's explanation, an obvious sign they have taken some liberties with interpreting the text for their intended audience. 
 
-The *Harmony* doesn't do any of this intepretation for us though, and I can't blame him for not doing so. Any explanation of the text would have been outdated in the matter of a few decades, and would no doubt start a religious flame war on Goodreads. 
+The *Harmony* doesn't do any of this intepretation for us though, and I can't blame them for not doing so. Any explanation of the text would have been outdated in the matter of a few decades.
 </span>
 
 <span>
@@ -183,7 +183,7 @@ Feels overrated. Certainly not a favourite of the Orwell I’ve read. Perhaps I 
 ### Aldous Huxley
 ★★★★
 
-Huxley is great at leaving images in the mind. I agree with the consensus that it pairs well with 1984. It’s hard to determine which will be the popularity winner in the longer term, although the latter is out to an early lead. If you read soma as dopamine, you can almost see Brave New World as our world. Whether people see that as a real dystopia is currently under debate. Huxley was asking whether Nozick’s <a href="https://en.wikipedia.org/wiki/Experience_machine">Experience Machine</a> is something we would want to live with but more and more the answer seems to be yes. There are a fair amount of us who genuinely wouldn’t care if we could turn it on and step inside. Huxley would most likely be surprised since a fair amount of us, myself included, would choose to be Cypher and not Neo if we found ourselves inside the Matrix.
+Huxley is great at leaving images in the mind. I agree with the consensus that it pairs well with *1984*. It’s hard to determine which will be the popularity winner in the longer term, although the latter is out to an early lead. If you read soma as dopamine, you can almost see *Brave New World* as our world. Whether people see that as a real dystopia is currently under debate. Huxley was asking whether Nozick’s <a href="https://en.wikipedia.org/wiki/Experience_machine">Experience Machine</a> is something we would want to live with but more and more the answer seems to be yes. There are a fair amount of us who genuinely wouldn’t care if we could turn it on and step inside. Huxley would most likely be surprised since a fair amount of us, myself included, would choose to be Cypher and not Neo if we found ourselves inside the Matrix.
 
 </span>
 
@@ -193,6 +193,151 @@ Huxley is great at leaving images in the mind. I agree with the consensus that i
 ### Joseph Conrad
 ★★★★★
 
+*Lord Jim* was my favourite book for over a decade. Unfortunately, the plot is hazy to me now but what remains is the atmosphere. I imagine what appealed to me, as a conservative teenager reading it, was the type of questions Conrad seemed to be asking about masculinity and chance and fate. I certainly can’t see *Lord Jim* being as appealing to me if I were born a woman instead. I will note the first half of the book is what hooked me and the second half, where Jim earns his Lord title, was a change in direction that didn’t satisfy. I’m scared to read it again in case it’s worse than I remember.
+
+</span>
+
+<span>
+
+## Heart of Darkness
+### Joseph Conrad
+★★★★
+
+Read it in a single night with only a lamp to illuminate the room. I found it hard to understand on the first reading, but I read it around a decade later and the colonial context I had gained in the meantime made it more digestible but less exotic. As with *Lord Jim*, it was Conrad’s production of a disconcerting atmosphere that held my interest. That being said, I’m not sure I’d recommend *Heart of Darkness* to anyone–a colonial history would probably do better. 
 
 
 </span>
+
+<span>
+
+## The Stranger
+### Albert Camus
+★★★★★
+
+Absolutely brilliant. I haven’t talked to a single person who has read it who didn’t love it. It has been fifteen years and I can still remember the walk along the beach and the dialogue with the chaplain. 
+
+</span>
+
+<span>
+
+## A Brief History of Time
+### Stephen Hawking
+★★★★
+
+I read it when I was around 12, but the writing was clear enough for even me to understand. I believe it was anti-recommended by a jealous church-goer who was telling me that Yahweh had cursed Hawking for not believing in his existence by sending him to the chair. The time’s-arrow concept was particularly interesting, but not something I understood then and I will admit it has never landed in the intermediate years. Probably Hawking started my interest in physics and in my highschool years I would start reading a number of books on the quest for a unified theory. 
+
+</span>
+
+<span>
+
+## The Book Thief
+### Mark Zusak
+★★
+
+Unremarkable to me. I’ve never been able to understand the hype, although the type of person who has raved about it have never been those whose book judgement I trust. 
+
+</span>
+
+<span>
+
+## The Turning
+### Tim Winton
+★★
+
+A forced read in high school. One wonders if Tim Winton is Australia’s Herman Melville, unnecessarily hated by schoolkids because they were asked to read him in the wrong environment. I wouldn’t put any stock in my low rating, it would likely raise significantly if I didn’t happen to be so familiar with the setting Winton writes about.
+
+</span>
+
+<span>
+
+## Magician
+### Raymond Feist
+★★★★
+
+One of the first significant fantasy novels I read after the *Ranger’s Apprentice* YA series when I was a teenager. At the time, I was completely transported. The world and the magic seemed unbelievably expansive. I have no idea why I didn’t continue the series, perhaps I didn’t realize there were other books to read. It doesn’t receive five stars only because as time passes I trust the ratings of my teenage self less and less. 
+
+</span>
+
+<span>
+
+## Hitchhiker's Guide to the Galaxy
+### Douglas Adams
+★★★★★
+
+Undoubtedly the funniest book I’ve ever read. I would read it on the bus and hide my chuckles. His jokes made me feel like I was in the know. What’s more likely is that teenage me missed half the references and half the fun. *Hitchhiker’s Guide* wasn’t the first comic book that I’d read. That honor goes to a book whose name I cannot remember but whose only joke I do recall was a character opening the last of his supplies and seeing the label on the water container: “Just add water”. The *Guide* seemed to have an endless supply of jokes, largely funnier and more absurd than any I’d read before. 
+
+</span>
+
+<span>
+
+## The Plot Against America
+### Philip Roth
+★★★
+
+I read this book too early in my life to have the necessary context. Roth happened to be on Harold Bloom’s Great Books list which led me to pick it up, prematurely. I can neither recommend nor discourage it, only mention the prose was excellent.
+
+</span>
+
+<span>
+
+## 2001: A Space Odyssey
+### Arthur C. Clarke
+★★★★
+
+Not as good as the movie, but still fantastic. Exceptionally clear writing. 
+
+</span>
+
+<span>
+
+## The Alchemist
+### Paulo Coelho
+★★★★
+
+*The Alchemist* is a page-turner with a loveable protagonist. But I imagine even Paulo is a little surprised this book lands on self-help lists. Maybe this is because American celebrities have a short memory and have forgotten that “its the journey not the destination” is a wisdom-turned-platitude that a kid could tell you. An enjoyable read nonetheless, as long as you don’t ever have to meet someone who tells you it’s their favourite.
+
+</span>
+
+<span>
+
+## The Pilgrimage
+### Paulo Coelho
+★★★★
+
+Further evidence that I am not a Coelho hater is my reading of this book. I remember reading *The Pilgrimage* on my lunch breaks working at a fast food fried-chicken chain where I worked on the fryers for hours at a time. The upstairs storeroom was the only place in the building where it didn’t feel like oil was saturating the air. After missing it reading *The Alchemist*, I realized Coelho was a Christian and a mystic one at that. At the time, I was anything but–I was Protestant in the strictest sense, obsessed with the biblical text. If God told me he wasn’t a fundamentalist, he’d just have come back later after he’d done some additional study. 
+
+So *The Pilgrimage* introduced me to the meditative side of Christianity, one severely underexplored in the cult I grew up in. It didn’t make any immediate impact, but was one of many other views of my religion which eventually piled up years later and convinced me my specific brand of belief wasn’t The Truth. 
+
+</span>
+
+<span>
+
+## Angels and Demons
+### Dan Brown
+★★★
+
+Don’t be put off reading Dan Brown because everyone educated tells you he’s an idiot. Just remember you’re eating at Macdonalds, not Nobu. This book was a pageturner.
+
+</span>
+
+<span>
+
+## The Books of Pellinor (Series)
+### Alison Croggon
+★★★★
+
+Extremely engrossing, tropey, YA fantasy. I can’t remember a single plot point but I remember I loved finding these at random in my high school library. I felt as much inside this world as I did when I read Philip Pulman’s *The Golden Compass*.
+
+</span>
+
+<span>
+
+## The Great Gatsby
+### Scott Fitzgerald
+★★★★★
+
+I found it average when I was assigned it in high school, but it has invaded space in my mind since. Controversially, I see Gatsby as an enviable figure, despite no one showing at his funeral. Perhaps it is because I love the idea of parties too much. *The Great Gatsby* is one of the few novels I have read twice and would probably read a third–the plot seems endlessly interpretable, the themes of romance, deception, capitalism, happiness, homosexuality, reputation, legacy, are just so numerous that every time I listen to someone analyze it I hear something new. 
+
+</span>
+
+
