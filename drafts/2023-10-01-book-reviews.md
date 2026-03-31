@@ -340,4 +340,87 @@ I found it average when I was assigned it in high school, but it has invaded spa
 
 </span>
 
+<span>
+
+## The Odyssey
+### Homer
+★★★★★
+
+Worth reading for the Sirens alone. Even more interestingly, Homer has been receiving the Moses treatment by scholars in the last few centuries. He is no longer said to have existed, or more precisely, written, as a single person or poet and the work is now seen as a composite of many writers or speakers, just like the Pentateuch. The discovery of a convincing theory behind how this was done over possibly hundreds of years is fascinating. (The wikipedia entry on Homer is a good enough starting point.)
+
+</span>
+
+<span>
+
+## Walden
+### Henry Thoureau
+★★★★★
+
+One of the few books which completely changed my thinking on a whole range of topics. When I read it as a teenager, I wanted to ditch my apartment and live alone in the woods, although the fact that my rent was too high and I had no job may have played a bit into this. I suspect that Walden is one of those books that one grows out of and for this reason I am scared to give it a re-read. 
+
+</span>
+
+<span>
+
+## Frankenstein
+### Mary Shelley
+★★★★★
+
+*Frankenstein* is so good I get angry the movies portray such a different vibe. Unbelievably, Mary Shelley began writing it when she was only 18. If someone ever wanted to start reading the classics and had not been in the habit of focussing, I’d tell them to read *Frankenstein* because Shelley’s brilliant style makes the story incredibly clear, vivid and discussable.
+
+</span>
+
+<span>
+
+## On the Road
+### Jack Kerouac
+★★
+
+I never finished Kerouac’s stream of consciousness masterpiece. It feels as if the fact that it was written in a manic revelry is more important than the book itself. There were a few striking scenes but it never hooked me and it doesn’t seem to hold any important part of the culture anymore. 
+
+
+</span>
+
+## Adventures of Huckleberry Finn
+### Mark Twain
+★★★
+
+Fun, but not particularly memorable for me. *Huckleberry Finn* just doesn’t hold the same weight for an Australian as an American.
+
+</span>
+
+</span>
+
+## Dead Men's Secrets
+### Johnathan Gray
+★
+
+I was given this pre-history conspiracy theory adventure story pretending to be scientific theory by my uncle who thought Yahweh would kill Richard Dawkins for speaking about his non-existence. In the end, it was a good introduction to the genre as it allowed me, a long while later, to notice the same inflections and suspicious attitude that permeated the books of the leader of the cult I escaped. 
+
+From what I can now tell, Gray was a budget Graham Hancock, with the book having the same general thesis as *Magicians of the Gods*. Unfortunately for Gray, he never appeared on Joe Rogan.
+
+</span>
+
+</span>
+
+## Malachi's Message 
+### Gerald Flurry
+★
+
+One of the worst-written books in the history of mankind. Flurry is incapable of writing an interesting sentence and only by a slim margin has been able to write one that doesn’t contain either all caps, small caps, italics, or an exclamation mark. I calculated previously that at his peak, <a href=”https://agnostichistory.com/cult/pcg/2019/10/05/the-exclamation-mark-church-of-god.html”>one in four</a> of Flurry’s sentences ended with an exclamation mark, which places him in a pantheon of exaggerators.
+
+*Malachi’s Message* makes the claim that Flurry is a special prophet mentioned by the Old Testament’s book of Malachi, one that was so hard to swallow that even the majority of the conspiracy-theory-primed followers of Herbert W. Armstrong rejected it. If Yahweh were to exist and Flurry was correct, it’d be enough to make one a polytheist–it just couldn’t be true that there was only one god if its taste were so inadequate.  
+
+</span>
+
+</span>
+
+## The Missing Dimension in Sex
+### Herbert W. Armstrong
+★
+
+Armstrong talks about sex as if he never had an orgasm. It may be that he had just not recently experienced one from his partner since it was later revealed, in a court case, that he had been molesting his daughter.
+
+</span>
+
 
