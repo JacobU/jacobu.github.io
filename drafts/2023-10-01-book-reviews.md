@@ -162,7 +162,7 @@ Hemingway employs the "no chapters" strategy, one Terry Pratchett also loved, bu
 
 ## 1984
 ### George Orwell
-★★★★★
+★★★★★★★★★★
 
 I wouldn’t have anything to say about this book that someone else hadn’t said. Continuously relevant and will probably gain parable status. When Trump was elected president of the United States, it was endlessly recommended and discussed by talking heads, recently-graduated Youtubers and people who you get the impression only read the SparkNotes. This annoyed me but in the end I felt guilty. I only wish people would have read it without the prompting of America's Berlusconi.
 </span>
@@ -171,7 +171,7 @@ I wouldn’t have anything to say about this book that someone else hadn’t sai
 
 ## Animal Farm
 ### George Orwell
-★★★
+★★★★★★☆☆☆☆
 
 Feels overrated. Certainly not a favourite of the Orwell I’ve read. Perhaps I didn’t get it, I read it just out of highschool.
 
@@ -181,7 +181,7 @@ Feels overrated. Certainly not a favourite of the Orwell I’ve read. Perhaps I 
 
 ## Brave New World
 ### Aldous Huxley
-★★★★
+★★★★★★★★☆☆
 
 Huxley is great at leaving images in the mind. I agree with the consensus that it pairs well with *1984*. It’s hard to determine which will be the popularity winner in the longer term, although the latter is out to an early lead. If you read soma as dopamine, you can almost see *Brave New World* as our world. Whether people see that as a real dystopia is currently under debate. Huxley was asking whether Nozick’s <a href="https://en.wikipedia.org/wiki/Experience_machine">Experience Machine</a> is something we would want to live with but more and more the answer seems to be yes. There are a fair amount of us who genuinely wouldn’t care if we could turn it on and step inside. Huxley would most likely be surprised since a fair amount of us, myself included, would choose to be Cypher and not Neo if we found ourselves inside the Matrix.
 
@@ -191,7 +191,7 @@ Huxley is great at leaving images in the mind. I agree with the consensus that i
 
 ## Lord Jim
 ### Joseph Conrad
-★★★★★
+★★★★★★★★★★
 
 *Lord Jim* was my favourite book for over a decade. Unfortunately, the plot is hazy to me now but what remains is the atmosphere. I imagine what appealed to me, as a conservative teenager reading it, was the type of questions Conrad seemed to be asking about masculinity and chance and fate. I certainly can’t see *Lord Jim* being as appealing to me if I were born a woman instead. I will note the first half of the book is what hooked me and the second half, where Jim earns his Lord title, was a change in direction that didn’t satisfy. I’m scared to read it again in case it’s worse than I remember.
 
@@ -201,7 +201,7 @@ Huxley is great at leaving images in the mind. I agree with the consensus that i
 
 ## Heart of Darkness
 ### Joseph Conrad
-★★★★
+★★★★★★★★☆☆
 
 Read it in a single night with only a lamp to illuminate the room. I found it hard to understand on the first reading, but I read it around a decade later and the colonial context I had gained in the meantime made it more digestible but less exotic. As with *Lord Jim*, it was Conrad’s production of a disconcerting atmosphere that held my interest. That being said, I’m not sure I’d recommend *Heart of Darkness* to anyone–a colonial history would probably do better. 
 
@@ -212,7 +212,7 @@ Read it in a single night with only a lamp to illuminate the room. I found it ha
 
 ## The Stranger
 ### Albert Camus
-★★★★★
+★★★★★★★★★★
 
 Absolutely brilliant. I haven’t talked to a single person who has read it who didn’t love it. It has been fifteen years and I can still remember the walk along the beach and the dialogue with the chaplain. 
 
@@ -222,7 +222,7 @@ Absolutely brilliant. I haven’t talked to a single person who has read it who 
 
 ## A Brief History of Time
 ### Stephen Hawking
-★★★★
+★★★★★★★★☆☆
 
 I read it when I was around 12, but the writing was clear enough for even me to understand. I believe it was anti-recommended by a jealous church-goer who was telling me that Yahweh had cursed Hawking for not believing in his existence by sending him to the chair. The time’s-arrow concept was particularly interesting, but not something I understood then and I will admit it has never landed in the intermediate years. Probably Hawking started my interest in physics and in my highschool years I would start reading a number of books on the quest for a unified theory. 
 
@@ -232,7 +232,7 @@ I read it when I was around 12, but the writing was clear enough for even me to 
 
 ## The Book Thief
 ### Mark Zusak
-★★
+★★★★☆☆☆☆☆☆
 
 Unremarkable to me. I’ve never been able to understand the hype, although the type of person who has raved about it have never been those whose book judgement I trust. 
 
@@ -242,7 +242,7 @@ Unremarkable to me. I’ve never been able to understand the hype, although the 
 
 ## The Turning
 ### Tim Winton
-★★
+★★★★☆☆☆☆☆☆
 
 A forced read in high school. One wonders if Tim Winton is Australia’s Herman Melville, unnecessarily hated by schoolkids because they were asked to read him in the wrong environment. I wouldn’t put any stock in my low rating, it would likely raise significantly if I didn’t happen to be so familiar with the setting Winton writes about.
 
@@ -252,7 +252,7 @@ A forced read in high school. One wonders if Tim Winton is Australia’s Herman 
 
 ## Magician
 ### Raymond Feist
-★★★★
+★★★★★★★★☆☆
 
 One of the first significant fantasy novels I read after the *Ranger’s Apprentice* YA series when I was a teenager. At the time, I was completely transported. The world and the magic seemed unbelievably expansive. I have no idea why I didn’t continue the series, perhaps I didn’t realize there were other books to read. It doesn’t receive five stars only because as time passes I trust the ratings of my teenage self less and less. 
 
@@ -262,7 +262,7 @@ One of the first significant fantasy novels I read after the *Ranger’s Apprent
 
 ## Hitchhiker's Guide to the Galaxy
 ### Douglas Adams
-★★★★★
+★★★★★★★★★★
 
 Undoubtedly the funniest book I’ve ever read. I would read it on the bus and hide my chuckles. His jokes made me feel like I was in the know. What’s more likely is that teenage me missed half the references and half the fun. *Hitchhiker’s Guide* wasn’t the first comic book that I’d read. That honor goes to a book whose name I cannot remember but whose only joke I do recall was a character opening the last of his supplies and seeing the label on the water container: “Just add water”. The *Guide* seemed to have an endless supply of jokes, largely funnier and more absurd than any I’d read before. 
 
@@ -272,7 +272,7 @@ Undoubtedly the funniest book I’ve ever read. I would read it on the bus and h
 
 ## The Plot Against America
 ### Philip Roth
-★★★
+★★★★★★☆☆☆☆
 
 I read this book too early in my life to have the necessary context. Roth happened to be on Harold Bloom’s Great Books list which led me to pick it up, prematurely. I can neither recommend nor discourage it, only mention the prose was excellent.
 
@@ -282,7 +282,7 @@ I read this book too early in my life to have the necessary context. Roth happen
 
 ## 2001: A Space Odyssey
 ### Arthur C. Clarke
-★★★★
+★★★★★★★★☆☆
 
 Not as good as the movie, but still fantastic. Exceptionally clear writing. 
 
@@ -292,7 +292,7 @@ Not as good as the movie, but still fantastic. Exceptionally clear writing.
 
 ## The Alchemist
 ### Paulo Coelho
-★★★★
+★★★★★★★★☆☆
 
 *The Alchemist* is a page-turner with a loveable protagonist. But I imagine even Paulo is a little surprised this book lands on self-help lists. Maybe this is because American celebrities have a short memory and have forgotten that “its the journey not the destination” is a wisdom-turned-platitude that a kid could tell you. An enjoyable read nonetheless, as long as you don’t ever have to meet someone who tells you it’s their favourite.
 
@@ -302,7 +302,7 @@ Not as good as the movie, but still fantastic. Exceptionally clear writing.
 
 ## The Pilgrimage
 ### Paulo Coelho
-★★★★
+★★★★★★★★☆☆
 
 Further evidence that I am not a Coelho hater is my reading of this book. I remember reading *The Pilgrimage* on my lunch breaks working at a fast food fried-chicken chain where I worked on the fryers for hours at a time. The upstairs storeroom was the only place in the building where it didn’t feel like oil was saturating the air. After missing it reading *The Alchemist*, I realized Coelho was a Christian and a mystic one at that. At the time, I was anything but–I was Protestant in the strictest sense, obsessed with the biblical text. If God told me he wasn’t a fundamentalist, he’d just have come back later after he’d done some additional study. 
 
@@ -314,7 +314,7 @@ So *The Pilgrimage* introduced me to the meditative side of Christianity, one se
 
 ## Angels and Demons
 ### Dan Brown
-★★★
+★★★★★★☆☆☆☆
 
 Don’t be put off reading Dan Brown because everyone educated tells you he’s an idiot. Just remember you’re eating at Macdonalds, not Nobu. This book was a pageturner.
 
@@ -324,7 +324,7 @@ Don’t be put off reading Dan Brown because everyone educated tells you he’s 
 
 ## The Books of Pellinor (Series)
 ### Alison Croggon
-★★★★
+★★★★★★★★☆☆
 
 Extremely engrossing, tropey, YA fantasy. I can’t remember a single plot point but I remember I loved finding these at random in my high school library. I felt as much inside this world as I did when I read Philip Pulman’s *The Golden Compass*.
 
@@ -334,7 +334,7 @@ Extremely engrossing, tropey, YA fantasy. I can’t remember a single plot point
 
 ## The Great Gatsby
 ### Scott Fitzgerald
-★★★★★
+★★★★★★★★★★
 
 I found it average when I was assigned it in high school, but it has invaded space in my mind since. Controversially, I see Gatsby as an enviable figure, despite no one showing at his funeral. Perhaps it is because I love the idea of parties too much. *The Great Gatsby* is one of the few novels I have read twice and would probably read a third–the plot seems endlessly interpretable, the themes of romance, deception, capitalism, happiness, homosexuality, reputation, legacy, are just so numerous that every time I listen to someone analyze it I hear something new. 
 
@@ -344,7 +344,7 @@ I found it average when I was assigned it in high school, but it has invaded spa
 
 ## The Odyssey
 ### Homer
-★★★★★
+★★★★★★★★★★
 
 Worth reading for the Sirens alone. Even more interestingly, Homer has been receiving the Moses treatment by scholars in the last few centuries. He is no longer said to have existed, or more precisely, written, as a single person or poet and the work is now seen as a composite of many writers or speakers, just like the Pentateuch. The discovery of a convincing theory behind how this was done over possibly hundreds of years is fascinating. (The wikipedia entry on Homer is a good enough starting point.)
 
@@ -354,7 +354,7 @@ Worth reading for the Sirens alone. Even more interestingly, Homer has been rece
 
 ## Walden
 ### Henry Thoureau
-★★★★★
+★★★★★★★★★★
 
 One of the few books which completely changed my thinking on a whole range of topics. When I read it as a teenager, I wanted to ditch my apartment and live alone in the woods, although the fact that my rent was too high and I had no job may have played a bit into this. I suspect that Walden is one of those books that one grows out of and for this reason I am scared to give it a re-read. 
 
@@ -364,7 +364,7 @@ One of the few books which completely changed my thinking on a whole range of to
 
 ## Frankenstein
 ### Mary Shelley
-★★★★★
+★★★★★★★★★★
 
 *Frankenstein* is so good I get angry the movies portray such a different vibe. Unbelievably, Mary Shelley began writing it when she was only 18. If someone ever wanted to start reading the classics and had not been in the habit of focussing, I’d tell them to read *Frankenstein* because Shelley’s brilliant style makes the story incredibly clear, vivid and discussable.
 
@@ -374,7 +374,7 @@ One of the few books which completely changed my thinking on a whole range of to
 
 ## On the Road
 ### Jack Kerouac
-★★
+★★★★☆☆☆☆☆☆
 
 I never finished Kerouac’s stream of consciousness masterpiece. It feels as if the fact that it was written in a manic revelry is more important than the book itself. There were a few striking scenes but it never hooked me and it doesn’t seem to hold any important part of the culture anymore. 
 
@@ -383,7 +383,7 @@ I never finished Kerouac’s stream of consciousness masterpiece. It feels as if
 
 ## Adventures of Huckleberry Finn
 ### Mark Twain
-★★★
+★★★★★★☆☆☆☆
 
 Fun, but not particularly memorable for me. *Huckleberry Finn* just doesn’t hold the same weight for an Australian as an American.
 
@@ -393,7 +393,7 @@ Fun, but not particularly memorable for me. *Huckleberry Finn* just doesn’t ho
 
 ## Dead Men's Secrets
 ### Johnathan Gray
-★
+★★☆☆☆☆☆☆☆☆
 
 I was given this pre-history conspiracy theory adventure story pretending to be scientific theory by my uncle who thought Yahweh would kill Richard Dawkins for speaking about his non-existence. In the end, it was a good introduction to the genre as it allowed me, a long while later, to notice the same inflections and suspicious attitude that permeated the books of the leader of the cult I escaped. 
 
@@ -405,7 +405,7 @@ From what I can now tell, Gray was a budget Graham Hancock, with the book having
 
 ## Malachi's Message 
 ### Gerald Flurry
-★
+★☆☆☆☆☆☆☆☆☆
 
 One of the worst-written books in the history of mankind. Flurry is incapable of writing an interesting sentence and only by a slim margin has been able to write one that doesn’t contain either all caps, small caps, italics, or an exclamation mark. I calculated previously that at his peak, <a href=”https://agnostichistory.com/cult/pcg/2019/10/05/the-exclamation-mark-church-of-god.html”>one in four</a> of Flurry’s sentences ended with an exclamation mark, which places him in a pantheon of exaggerators.
 
@@ -417,9 +417,23 @@ One of the worst-written books in the history of mankind. Flurry is incapable of
 
 ## The Missing Dimension in Sex
 ### Herbert W. Armstrong
-★
+★☆☆☆☆☆☆☆☆☆
 
-Armstrong talks about sex as if he never had an orgasm. It may be that he had just not recently experienced one from his partner since it was later revealed, in a court case, that he had been molesting his daughter.
+Armstrong talks about sex as if he never had an orgasm. It may be that he had just not recently experienced one from his partner. It was later revealed, in a court case, that he had been molesting his daughter.
+
+</span>
+
+</span>
+
+## First Discourse and Replies to Critics
+### Jean Jacques Rousseau
+★★★★★★★☆☆☆
+
+Worth reading for the same reason that many originals of genres are worth reading. I read this quite early in my journey into reading philosophy, so the first time around many of the arguments felt obscure--it was hard to know who he was arguing against, what the intellectual context was, how his arguments fit into the spectrum. The second reading was better for understanding these.
+
+Rousseau answers No to the question of whether "the restoration of the sciences and arts contributed to the purification of morals?" He believes older societies were more moral and that society provides a whole gamut of bad incentives, thus the famous quote "man is born free but everywhere he is in chains." Barely past my edgy teenage phase, I was in agreement, most likely not because I fully understood the argument but because I loved to hear about how everyone else was horrid.
+
+On the second reading Rousseau seemed naive and overly optimistic about humans in a state of nature. This seems to be one of the the main criticisms thrown at him in the couple of hundred years since this was published. I don't think you can blame Rousseau since our knowledge of what the past looked like has exploded in that time. Yet the basic form of the argumemt is still relevant and if you read it here you'll end up hearing the fors and againsts rolled out in various ways.   
 
 </span>
 
