@@ -389,7 +389,7 @@ Fun, but not particularly memorable for me. *Huckleberry Finn* just doesn’t ho
 
 </span>
 
-</span>
+<span>
 
 ## Dead Men's Secrets
 ### Johnathan Gray
@@ -401,7 +401,7 @@ From what I can now tell, Gray was a budget Graham Hancock, with the book having
 
 </span>
 
-</span>
+<span>
 
 ## Malachi's Message 
 ### Gerald Flurry
@@ -413,7 +413,7 @@ One of the worst-written books in the history of mankind. Flurry is incapable of
 
 </span>
 
-</span>
+<span>
 
 ## The Missing Dimension in Sex
 ### Herbert W. Armstrong
@@ -423,7 +423,7 @@ Armstrong talks about sex as if he never had an orgasm. It may be that he had ju
 
 </span>
 
-</span>
+<span>
 
 ## First Discourse and Replies to Critics
 ### Jean Jacques Rousseau
@@ -437,4 +437,18 @@ On the second reading Rousseau seemed naive and overly optimistic about humans i
 
 </span>
 
+<span>
 
+## Representative Men
+### 
+★★★★★★★☆☆☆
+
+This was an electrifying read at the time. Emerson the transcendentalist has an optimistc and soaring style that was perfect for the type of young person I was--someone who believed they were special (chosen by God, no less) and who people in the future could write similar glazing biographies of. (Emerson chooses six "Great Men" to biography, each one supposedly a different archetype of greatness.) 
+
+I'm sure this would hit differently on a second read, "no man steps in the same river twice" ecetera, since it no longer seems true to me that reading about other's success does any to help your own. I had not yet come upon the criticisms of the "Great Men" style of history which Emerson clearly subscribes to. The 20th century saw an opening up of the debate surrounding these Great Men arguments, where historical forces, economic influences, and political structures influenced whether these men and women were produced or even allowed to exist. Unfortunately I hadn't read any of this yet.
+
+Out of Emerson's chosen six, only Swedenborg seems now to be out of place. I haven't met anyone who could tell me much about him, but his others--Plato, Montaigne, Shakespeare, Napoleon, and Goethe--are stil household names, at least to houses you'd like to visit anyway.
+
+After reading *Representative Men* I had somewhat of a Napolean obsession, reading a number of biographies about him. In the end, it seemed to me that in order to be as great as Napoleon one would have to simply not kill anyone. (I'm entirely open to changing my mind on this position.) So although my opinions on this book have changed substantially, it still recieves seven stars because no matter if I no longer believe in his aims, he did it elegantly nonetheless.
+
+</span>
